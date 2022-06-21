@@ -1,21 +1,21 @@
 # Gotoinc-test-task
-Main scrypt is located in test.js
+Main scrypt is located in test.js <br>
 To try it open index.html
 
-Examples to check:
-Task 1:
-encrypt: abcdef, n=2 => daebfc
-decrypt: daebfc, n=2 => abcdef
-encrypt: none, none => error(return null)
-decrypt: none, none => error(return null)
-encrypt: abcdef, n=-2 => abcdef
-decrypt: daebfc, n=-2 => daebfc
+Examples to check:<br>
+Task 1:<br>
+encrypt: abcdef, n=2 => daebfc<br>
+decrypt: daebfc, n=2 => abcdef<br>
+encrypt: none, none => error(return null)<br>
+decrypt: none, none => error(return null)<br>
+encrypt: abcdef, n=-2 => abcdef<br>
+decrypt: daebfc, n=-2 => daebfc<br>
 
-Task 2:
-Як тебе не любити, як любити Києве мій як
-як(х3)
-любити(х2)
-мій(х1)
+Task 2:<br>
+Як тебе не любити, як любити Києве мій як<br>
+як(х3)<br>
+любити(х2)<br>
+мій(х1)<br>
 
-яК. ти?
+яК. ти?<br>
 error(return null)
